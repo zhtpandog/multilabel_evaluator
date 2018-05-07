@@ -53,7 +53,7 @@ Evaluation results in a format you-can-understand-even-I-am-too-lazy-to-explain-
 Average NDCG Score  
 Coverage Error  
 Label Ranking Average Precision Score  
-Label Ranking Loss
+Label Ranking Loss  
 Recall @ k  
 
 
