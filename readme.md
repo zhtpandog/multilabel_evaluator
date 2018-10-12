@@ -15,7 +15,7 @@ __truth1__: A list of list of string. Each list of string represents a set of co
 ...
 ]
 ```
-__pred1__: A list of list of list. The outer list has each item as a record. The inner list has dim 19 with each item as a binary list of [label, proba]. Sorted by proba from high to low. Example:  
+__pred1__: A list of list of list. The outer list has each item as a record. The inner list has dimension you set to be with each item as a binary list of [label, proba]. Sorted by proba from high to low. Example:  
 ```
 [
 [[lbl1, 0.8], [lbl2, 0.2], ...[lbl9, 0.1]], 
